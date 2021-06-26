@@ -1,0 +1,220 @@
+# github.com/DataDog/datadog-go v0.0.0-20170427165718-0ddda6bee211
+## explicit
+github.com/DataDog/datadog-go/statsd
+# github.com/RangelReale/osin v1.0.0
+## explicit
+github.com/RangelReale/osin
+# github.com/RealistikOsu/api v0.0.0-20191226051108-58aa42d8e497
+## explicit
+github.com/RealistikOsu/api/common
+# github.com/RealistikOsu/hanayo v1.8.6
+## explicit
+github.com/RealistikOsu/hanayo/modules/bbcode
+github.com/RealistikOsu/hanayo/modules/btcaddress
+github.com/RealistikOsu/hanayo/modules/btcconversions
+github.com/RealistikOsu/hanayo/modules/doc
+github.com/RealistikOsu/hanayo/modules/fa-semantic-mappings
+github.com/RealistikOsu/hanayo/modules/locale
+github.com/RealistikOsu/hanayo/modules/top-passwords
+github.com/RealistikOsu/hanayo/routers/oauth
+github.com/RealistikOsu/hanayo/routers/pagemappings
+github.com/RealistikOsu/hanayo/services
+github.com/RealistikOsu/hanayo/services/cieca
+# github.com/ansel1/merry v1.0.2
+## explicit
+github.com/ansel1/merry
+# github.com/asaskevich/govalidator v0.0.0-20171111151018-521b25f4b05f
+## explicit
+github.com/asaskevich/govalidator
+# github.com/boj/redistore v0.0.0-20160128113310-fc113767cd6b
+## explicit
+github.com/boj/redistore
+# github.com/boombuler/barcode v1.0.0
+## explicit
+github.com/boombuler/barcode
+github.com/boombuler/barcode/qr
+github.com/boombuler/barcode/utils
+# github.com/certifi/gocertifi v0.0.0-20180118203423-deb3ae2ef261
+## explicit
+github.com/certifi/gocertifi
+# github.com/dustin/go-humanize v0.0.0-20171111073723-bb3d318650d4
+## explicit
+github.com/dustin/go-humanize
+# github.com/fatih/structs v1.0.0
+## explicit
+github.com/fatih/structs
+# github.com/felipeweb/gopher-utils v0.0.0-20161101033030-05a00fc86ef5
+## explicit
+github.com/felipeweb/gopher-utils
+# github.com/felipeweb/osin-mysql v0.0.0-20170620113854-269603eb06cf
+## explicit
+github.com/felipeweb/osin-mysql
+# github.com/frustra/bbcode v0.0.0-20150429195712-e3d2906cb269
+## explicit
+github.com/frustra/bbcode
+# github.com/garyburd/redigo v1.4.0
+## explicit
+github.com/garyburd/redigo/internal
+github.com/garyburd/redigo/redis
+# github.com/getsentry/raven-go v0.0.0-20180121060056-563b81fc02b7
+## explicit
+github.com/getsentry/raven-go
+# github.com/gin-contrib/sse v0.0.0-20170109093832-22d885f9ecc7
+## explicit
+github.com/gin-contrib/sse
+# github.com/gin-gonic/contrib v0.0.0-20180124033040-dccbb4a462e9
+## explicit
+github.com/gin-gonic/contrib/sessions
+# github.com/gin-gonic/gin v1.1.5-0.20170702092826-d459835d2b07
+## explicit
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/render
+# github.com/go-sql-driver/mysql v1.3.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/golang/protobuf v0.0.0-20180122221610-c65a0412e71e
+## explicit
+github.com/golang/protobuf/proto
+# github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f
+## explicit
+github.com/gorilla/context
+# github.com/gorilla/securecookie v0.0.0-20160422134519-667fe4e3466a
+## explicit
+github.com/gorilla/securecookie
+# github.com/gorilla/sessions v0.0.0-20160922145804-ca9ada445741
+## explicit
+github.com/gorilla/sessions
+# github.com/jmoiron/sqlx v0.0.0-20180124204410-05cef0741ade
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/johnniedoe/contrib v0.0.0-20150821124612-d553224621be
+## explicit
+github.com/johnniedoe/contrib/gzip
+# github.com/klauspost/compress v1.2.1
+## explicit
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+github.com/klauspost/compress/zlib
+# github.com/klauspost/cpuid v0.0.0-20170728055534-ae7887de9fa5
+## explicit
+github.com/klauspost/cpuid
+# github.com/klauspost/crc32 v0.0.0-20161016154125-cb6bfca970f6
+## explicit
+github.com/klauspost/crc32
+# github.com/mattn/go-isatty v0.0.3
+## explicit
+github.com/mattn/go-isatty
+# github.com/microcosm-cc/bluemonday v0.0.0-20171222152607-542fd4642604
+## explicit
+github.com/microcosm-cc/bluemonday
+# github.com/nfnt/resize v0.0.0-20160724205520-891127d8d1b5
+## explicit
+github.com/nfnt/resize
+# github.com/osuripple/cheesegull v2.0.5-0.20171027211637-3f168dff833b+incompatible
+## explicit
+github.com/osuripple/cheesegull/models
+# github.com/pariz/gountries v0.0.0-20171019111738-adb00f6513a3
+## explicit
+github.com/pariz/gountries
+# github.com/pborman/uuid v0.0.0-20170612153648-e790cca94e6c
+## explicit
+github.com/pborman/uuid
+# github.com/pkg/errors v0.8.0
+## explicit
+github.com/pkg/errors
+# github.com/pquerna/otp v1.0.0
+## explicit
+github.com/pquerna/otp
+github.com/pquerna/otp/hotp
+github.com/pquerna/otp/totp
+# github.com/rcrowley/goagain v0.0.0-20140424170347-f2f192b5d1a9
+## explicit
+github.com/rcrowley/goagain
+# github.com/rjeczalik/notify v0.0.0-20180103131905-27b537f07230
+## explicit
+github.com/rjeczalik/notify
+# github.com/russross/blackfriday v2.0.0+incompatible
+## explicit
+github.com/russross/blackfriday
+# github.com/shurcooL/sanitized_anchor_name v0.0.0-20170918181015-86672fcb3f95
+## explicit
+github.com/shurcooL/sanitized_anchor_name
+# github.com/thehowl/cieca v0.0.0-20161122163418-3d95e04c9b12
+## explicit
+github.com/thehowl/cieca
+# github.com/thehowl/conf v0.1.1-0.20161010150023-bdfc17531a74
+## explicit
+github.com/thehowl/conf
+# github.com/thehowl/qsql v0.0.0-20160712153739-9b9405451f47
+## explicit
+github.com/thehowl/qsql
+# github.com/ugorji/go v0.0.0-20180112141927-9831f2c3ac10
+## explicit
+github.com/ugorji/go/codec
+# github.com/valyala/fasthttp v0.0.0-20160617101304-d42167fd04f6
+## explicit
+github.com/valyala/fasthttp
+github.com/valyala/fasthttp/fasthttputil
+# golang.org/x/crypto v0.0.0-20180123095555-3d37316aaa6b
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# golang.org/x/net v0.0.0-20180124060956-0ed95abb35c4
+## explicit
+golang.org/x/net/context
+golang.org/x/net/context/ctxhttp
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# golang.org/x/oauth2 v0.0.0-20180118004544-b28fcf2b08a1
+## explicit
+golang.org/x/oauth2
+golang.org/x/oauth2/internal
+# golang.org/x/sys v0.0.0-20180124212539-af9a21289d00
+## explicit
+golang.org/x/sys/unix
+# google.golang.org/appengine v1.0.0
+## explicit
+google.golang.org/appengine/internal
+google.golang.org/appengine/internal/base
+google.golang.org/appengine/internal/datastore
+google.golang.org/appengine/internal/log
+google.golang.org/appengine/internal/remote_api
+google.golang.org/appengine/internal/urlfetch
+google.golang.org/appengine/urlfetch
+# gopkg.in/go-playground/validator.v8 v8.18.2
+## explicit
+gopkg.in/go-playground/validator.v8
+# gopkg.in/mailgun/mailgun-go.v1 v1.1.0
+## explicit
+gopkg.in/mailgun/mailgun-go.v1
+# gopkg.in/redis.v5 v5.2.9
+## explicit
+gopkg.in/redis.v5
+gopkg.in/redis.v5/internal
+gopkg.in/redis.v5/internal/consistenthash
+gopkg.in/redis.v5/internal/hashtag
+gopkg.in/redis.v5/internal/pool
+gopkg.in/redis.v5/internal/proto
+# gopkg.in/yaml.v2 v2.0.0
+## explicit
+gopkg.in/yaml.v2
+# zxq.co/ripple/agplwarning v0.0.0-20180204104638-d3a3d0ee424f
+## explicit
+zxq.co/ripple/agplwarning
+# zxq.co/ripple/go-discord-oauth v0.0.0-20161117211055-348e08feccb5
+## explicit
+zxq.co/ripple/go-discord-oauth
+# zxq.co/ripple/hanayo v1.9.0
+## explicit
+zxq.co/ripple/hanayo/services
+# zxq.co/ripple/playstyle v0.0.0-20161106144235-198984a13cb6
+## explicit
+zxq.co/ripple/playstyle
+# zxq.co/ripple/schiavolib v0.0.0-20161109210250-9cdc674dad07
+## explicit
+zxq.co/ripple/schiavolib
+# zxq.co/x/rs v0.0.0-20160912144010-8b39b068a155
+## explicit
+zxq.co/x/rs

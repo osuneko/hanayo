@@ -1,0 +1,85 @@
+{{/*###
+Handler=/about
+TitleBar=About
+*/}}
+{{ define "tpl" }}
+<div class="ui container">
+	<div class="ui centered segments">
+		<div class="ui segment">
+			<!--<img src="/static/logos/logo-1.png">-->
+			<h1 class="ui no bottom margin header">
+				{{ .T "Welcome to RealistikOsu!" }}
+			</h1>
+			<div class="about subtitle">{{ .T "RealistikOsu! is a private osu! server." }}<br>
+			{{ .T "It is just like osu! but with a twist!" }}</div>
+		</div>
+		<div class="ui segment">
+			<img src="/static/about/intro.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "We have leaderboards." }}
+			</h1>
+			<img src="/static/about/leaderboards.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "Online user listing." }}
+			</h1>
+			<img src="/static/about/onlineusers.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "Free osu!direct." }}
+			</h1>
+			<img src="/static/about/osudirect.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui no bottom margin header">
+				{{ .T "Global leaderboards." }}
+			</h1>
+			<p class="about subtitle">{{ .T "and PP for all game modes" }}</p>
+			<img src="/static/about/global_leaderboards.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "Ranking queue for unranked beatmaps." }}
+			</h1>
+			<img src="/static/about/request_beatmaps.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "Spectator." }}
+			</h1>
+			<img src="/static/about/spectator.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "Multiplayer." }}
+			</h1>
+			<img src="/static/about/multi.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "FokaBot, our chat bot" }}
+			</h1>
+			<p class="about subtitle">{{ .T "with plenty of functions for just about anything, <a href=\"/doc/4\">check it out!</a>" | html }}</p>
+			<img src="/static/about/foka.jpg">
+		</div>
+		<div class="ui segment">
+			<h1 class="ui header">
+				{{ .T "And a lot more!" }}
+			</h1>
+			<p class="about title">
+				{{ .T "RealistikOsu! was started dues to RealistikDash being bored and a few mates thought it would be cool idea." }}
+			</p>
+			<p class="about title twemoji">
+				{{ .T "We have a long journey ahead of us! Come along and register and witness it unfold!" }}
+			</p>
+			<p class="about subtitle">
+				{{ .T "In case you want to make sure we're not doing shady stuff with your data, you can also check the <a href=\"https://github.com/RealistikOsu\">source code</a> RealistikOsu! is running on." | html }}
+			</p>
+		</div>
+	</div>
+</div>
+{{ end }}
