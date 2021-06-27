@@ -1,8 +1,8 @@
 # Hanayo - RealistikOsu!'s frontend
 
-NOTE: The GoLang backed code is broken... We will fix it *soon*...
 
-This the the [frontend](https://ussr.pl/) of RealistikOsu!.
+
+This the the [frontend](https://nekos.cc/) of Nekosu. (based on RealistikOsu!)
 
 It is based on Ainu's version of [hanayo](https://github.com/osuripple/hanayo).
 
